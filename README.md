@@ -14,7 +14,7 @@ If you have something that you think belongs here, feel free to reach out to us 
   - [Official](#official)
   - [Community](#community)
   - [Tutorials](#tutorials)
-- Projects using Vuetify
+- Projects using I2Djs
   - [Open source](#open-source)
 
 ## Resources
