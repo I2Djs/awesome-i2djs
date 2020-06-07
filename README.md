@@ -1,4 +1,4 @@
-# Awesome I2DJS
+# Awesome I2Djs
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="logo.png" align="right" width="101">](https://vuetifyjs.com)
@@ -32,7 +32,7 @@ If you have something that you think belongs here, feel free to reach out to us 
 ## Projects using I2Djs
 
 ### Open source
-- [Covid-19 Dashboard for India ](https://github.com/nswamy14/I2DJS-COVID-INDIA) - Repo of Covid-19 Dashboard consisting of several widgets/visualizations created using I2Djs
+- [Covid-19 Dashboard for India ](https://github.com/nswamy14/I2DJS-COVID-INDIA) - Repo of Covid-19 Dashboard consisting of several complex widgets/visualizations
 
 ### Showcases
 - [Covid-19 Dashboard for India](https://i2djs-covidindia.in) - A visual representation of the impact of Covid-19 on various states and districts in India 
